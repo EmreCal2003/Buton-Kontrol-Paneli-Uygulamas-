@@ -2,7 +2,7 @@
 İntellij İDİA ile geliştirilmiştir. Java dili kullanılmıştır.
 
 Hazırladığım program, bir Swing kullanıcı arayüzü oluşturan bir uygulamayı temsil etmektedir. Uygulama, bir buton kontrol paneli içermektedir ve 
-her bir butonun üzerine tıklanıldığında bir dizi işlem gerçekleştirmektedir. Bu işlemler butonların aktif/pasif durumu arasında geçiş yapma, belirli bir API uç noktasını temsil etme ve bu uç noktanın çalıştığını belirtme gibi özellikler bulunmaktadır. Ayrıca bir GraphQL API uç noktasının durumunu kontrol etmek için kullanılabilir. Her bir buton, farklı bir API uç noktasını temsil eder ve tıklanıldığında durumu değiştirir. Eğer bir buton aktif hale getirilirse, uygulama bu uç noktanın çalıştığını ekrana yazdırır.( "Calisiyor ") Aynı zamanda, tıklanan butonun haricindeki diğer butonlar pasif duruma getirilir. Uygulamayı test etmek için aşağıdaki adımları izleyebiliriz;
+her bir butonun üzerine tıklanıldığında bir dizi işlem gerçekleştirmektedir. Bu işlemler butonların aktif/pasif durumu arasında geçiş yapma, belirli bir API uç noktasını temsil etme ve bu uç noktanın çalıştığını belirtme gibi özellikler bulunmaktadır. Ayrıca bir GraphQL API uç noktasının durumunu kontrol etmek için kullanılabilmektedir. Her bir buton, farklı bir API uç noktasını temsil eder ve tıklanıldığında durumu değiştirir. Eğer bir buton aktif hale getirilirse, uygulama bu uç noktanın çalıştığını ekrana yazdırır.( "Calisiyor ") Aynı zamanda, tıklanan butonun haricindeki diğer butonlar pasif duruma getirilir. Uygulamayı test etmek için aşağıdaki adımları izleyebiliriz;
 
 1.) Kodu Derleme ve Çalıştırma:
 
