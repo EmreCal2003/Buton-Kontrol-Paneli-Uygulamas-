@@ -58,4 +58,4 @@ API'deki değişiklikler, geriye dönük uyumluluk sağlayarak ve sürümleme zo
 GraphQL, özellikle büyük ve karmaşık uygulamalarda veri alışverişi ve yönetimi için etkili bir çözüm sunan modern bir teknolojidir. RESTful API'larla karşılaştırıldığında daha fazla esneklik ve verimlilik sağlamaktadır.
 Yukarıdaki aşamalar ile uygulamayı test edebiliriz.
 
-Ayrıca GitHub'a programın ekran çıktılarının yer aldığı bölümde eklenmiştir. ( Buton Uygulaması Çalıştırıkldığında.JPG ve Buton Aktifleştirildiğinde,JPG içerisinde)
+Ayrıca GitHub'a programın ekran çıktılarının yer aldığı bölümde eklenmiştir. ( Buton Uygulaması Çalıştırıkldığında.JPG ve Buton Aktifleştirildiğinde.JPG içerisinde)
