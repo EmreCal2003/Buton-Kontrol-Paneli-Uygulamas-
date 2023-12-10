@@ -56,4 +56,5 @@ GraphQL, geliştiricilere geniş bir esneklik ve kontrol sağlar. Sorgu ve yanı
 
 API'deki değişiklikler, geriye dönük uyumluluk sağlayarak ve sürümleme zorunluluğunu azaltarak daha kolay uygulanabilir. Yeni alanlar eklenebilir ve var olan alanlar kaldırılabilir, ancak istemciler sadece ihtiyaç duydukları veriyi almaya devam ederler.
 GraphQL, özellikle büyük ve karmaşık uygulamalarda veri alışverişi ve yönetimi için etkili bir çözüm sunan modern bir teknolojidir. RESTful API'larla karşılaştırıldığında daha fazla esneklik ve verimlilik sağlamaktadır.
-Ayrıca GitHub'a programın ekran çıktılarının yer aldığı bölümde eklenmiştir. (Program Ekran çıktıları dosyası içerisinde)
+
+Ayrıca GitHub'a programın ekran çıktılarının yer aldığı bölümde eklenmiştir. ( Buton Uygulaması Çalıştırıkldığında.JPG ve Buton Aktifleştirildiğinde,JPG içerisinde)
