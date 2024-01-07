@@ -1,4 +1,4 @@
-# Buton-Kontrol-Paneli-Uygulamas-
+# Buton-Kontrol-Paneli-Uygulaması
 İntellij İDİA ile geliştirilmiştir. Java dili kullanılmıştır.
 
 Hazırladığım program, bir Swing kullanıcı arayüzü oluşturan bir uygulamayı temsil etmektedir. Uygulama, bir buton kontrol paneli içermektedir ve 
